@@ -1,0 +1,437 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+
+    font-family: 'Roboto', sans-serif;
+
+}
+h1,h2,h3,h4,h5,h6{
+
+    font-family: 'Montserrat', sans-serif;
+
+}
+/* ===========Head ber started here========== */
+
+header#header {
+    background: #fbb300;
+}
+
+.text-style li a {
+    font-size: 20px;
+
+    font-family: 'Roboto';
+}
+
+ul.navbar-nav.m-auto.text-style a {
+    color: white;
+}
+
+
+.text-style a:hover {
+    color: black;
+}
+a.nav-link i {margin-left: 17px;}
+
+/* ===========Head ber Ends here========== */
+
+#shop-gallary{
+    background-image: url(sf/1581496719493.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.gallary-item{
+    margin-top: 260px;
+    background-color: aliceblue;
+    padding: 20px;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+
+    font-family: 'Roboto', sans-serif;
+
+}
+h1,h2,h3,h4,h5,h6{
+
+    font-family: 'Montserrat', sans-serif;
+
+}
+/* ===========Head ber started here========== */
+
+header#header {
+    background: #fbb300;
+}
+
+.text-style li a {
+    font-size: 20px;
+
+    font-family: 'Roboto';
+}
+
+ul.navbar-nav.m-auto.text-style a {
+    color: white;
+}
+
+
+.text-style a:hover {
+    color: black;
+}
+a.nav-link i {margin-left: 17px;}
+
+/* ===========Head ber Ends here========== */
+
+
+<!-- /* ===========Shop Gallary ber Started here========== */ -->
+
+#shop-gallary{
+    background-image: url(sf/1581496719493.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.gallary-item{
+    margin-top: 260px;
+    padding: 40px;
+    background: linear-gradient(#66474740, #0000004a, #00000047);
+    color: white;
+}
+
+a.nav-link {
+    /* color: white; */
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.gallary-item h1 {
+    font-size: 53px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    margin-bottom: 23px;
+}
+/* <!-- ===========Shop Gallary ber Ends here========== --> */
+
+
+<!-- /* ===========Shop Tranding Started  here========== */ -->
+
+
+.tranding-title.text-center h1 {
+    font-size: 53px;
+    font-weight: bold;
+}
+
+h2 {
+    margin-top: -133px;
+    color: #fbb300;
+    font-weight: bold;
+}
+
+.single-box img:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.single-box.text-center {
+    margin: 20px;
+}
+
+<!-- /* ===========Shop Tranding Ends  here========== */ -->
+
+
+<!-- /* ===========Shop Marquee Started  here========== */ -->
+
+section#marquee {
+    margin-top: 130px;
+}
+
+.containers {
+    font-size: 41px;
+    font-family: 'Montserrat';
+    font-weight: 900;
+    color: #fbb300;
+}
+<!-- /* ===========Shop Marquee Ends  here========== */ -->
+
+/* <!-- ========== Mens wear sections Started Here =========== --> */
+section#Mens-wear {
+    background: #f2fcff;
+}
+
+.mens-title {
+    text-align: center;
+}
+
+.mens-title h1 {
+    font-size: 51px;
+    font-weight: bold;
+    padding: 30px;
+}
+
+.mens-ware-box h2 {
+    margin-top: 29px;
+    font-size: 21px;
+    text-align: center;
+}
+
+span {
+    margin-left: 120px;
+    font-size: 18px;
+}
+.mens-ware-box :hover {
+    cursor: pointer;
+    transform: scaleX(0.1);
+    transition: 5s;
+}
+
+.font-style{
+    font-weight: bold;
+    color: #fbb300;
+
+}
+
+/* <!-- ========== Mens wear sections Ends Here =========== --> */
+
+
+ /* <!-- ==============Sections in View all started here================== --> */
+
+ section#View-all {
+    background: #fbb300;
+    padding: 30px;
+}
+
+ .view-img1 {
+     width: 50%;
+     float: left;
+    }
+
+ .view-img2 {
+     width: 50%;
+     float: right;
+     position: relative;
+     margin-right: 80px;
+     margin-top: -359px;
+ }
+ 
+ .view-img1 {
+     margin-top: 93px;
+ }
+
+
+    /* <!-- ==============Sections in View all Ends here================== --> */
+
+    
+    /* <!-- ==============Sections in Set and trand Started here================== --> */
+
+#set-trand{
+    
+    background-image: url(sf/ffff.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+
+}
+.set-box {
+    margin-top: 150px;
+    background: #ddd;
+    width: 397px;
+    padding: 25px;
+}
+
+
+    /* <!-- ==============Sections in Set and trand Ends here================== --> */
+
+
+
+    /* <!-- ==============Sections in Womens Started here================== --> */
+    .w-titles.text-center p {
+        font-size: 20px;
+    }
+    
+    .w-titles.text-center {
+        padding: 26px;
+    }
+    section#WOMENS {
+        background: #fdf4f4;
+        margin-top: -8px;
+        padding: 50px 0px;
+    }
+
+    .womens-img :hover {
+        transform: scaleX(0.5);
+        transition: 3s;
+        cursor: pointer;
+    }
+    
+
+    /* <!-- ==============Sections in Womens Ends here===================== --> */
+
+
+    /* <!-- ==============Sections in Bandeg set Started ds here===================== --> */
+
+    .bandeg-left img {
+        width: 131px;
+    }
+    .bandeg-left {
+        float: left;
+    }
+    .bandeg-left2 {
+        float: right;
+    }
+    
+    .bandeg-left2 img {
+        width: 486px;
+    }
+
+    .bandeg-right {
+        padding: 50px;
+    }
+    
+    .bangdeg-title h3 {
+        font-family: 'Roboto';
+    }
+    
+    .bangdeg-title span {
+        margin-left: 10px;
+    }
+    
+    .b-colors {
+        float: left;
+        width: 400px;
+    }
+    
+    .bandeg-s-p {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+    .bandeg-card button {
+        width: 100%;
+        color: white;
+        font-weight: bold;
+        padding: 19px;
+    }
+
+    .bangdeg-title h3 {
+        font-size: 35px;
+    }
+
+    /* <!-- ==============Sections in Bandeg set Ends here===================== --> */
+
+
+/* ================Section for the soft Started Here================= */
+
+    #fot-the-soft{
+    
+        background-image: url(sf/Fashion-Brands.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* background-attachment: fixed; */
+        background-position: center;
+        width: 100%;
+        height: 100vh;
+    
+    }
+    .soft-box {
+        margin-top: 150px;
+        background: #ddd;
+        width: 397px;
+        padding: 25px;
+    }
+
+/* ================Section for the soft Ends Here================= */
+
+/* <!-- ==================== Section The sign up Started Here======================= --> */
+
+.sign-up-title.text-center {
+    margin-top: 200px;
+}
+
+section#sign-up\ mt-5 {
+    background: black;
+    padding: 67px 12px;
+    margin-top: 48px;
+}
+
+.sign-up-title.text-center h2 {
+    font-size: 54px;
+}
+
+.sign-up-title.text-center p {
+    color: white;
+    margin-bottom: 33px;
+}
+
+.sign-up-iput input {
+    padding: 5px 39px;
+    text-align: left;
+    border: navajowhite;
+}
+
+.sign-up-iput.text-center i {
+    color: #fcbb30;
+    font-size: 39px;
+    position: absolute;
+    margin-top: -2px;
+}
+.sign-up-iput {
+    border-bottom: 5px solid white;
+    width: 350px;
+    margin: auto;
+}
+
+.sign-up-iput input {
+    margin-bottom: 8px;
+    margin-left: -22px;
+}
+
+/* <!-- ==================== Section The sign up Ends    Here======================= --> */
+
+
+/* <!-- =============Whats Customers section Started Here==================== --> */
+
+h1.text-center.fw-bold.mt-3 {
+    color: #fbb300;
+}
+
+.whats-down-title {
+    
+    padding: 50px;
+}
+
+/* <!-- =============Whats Customers section Ends    Here==================== --> */
+
+
+
+section#footer {
+    background: black;
+    padding: 100px;
+}
+
+.footer-menus a {
+    color: white;
+    font-size: 16px;
+}
+
+.footer-cards i {
+    color: white;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.col-lg-8 {
+    padding: 32px;
+}
